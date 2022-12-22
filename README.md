@@ -1,1 +1,1 @@
-This file contains information about the simple shell project 
+0x16. C - Simple Shell (ALX project)
